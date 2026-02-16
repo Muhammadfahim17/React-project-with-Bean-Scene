@@ -106,7 +106,7 @@ bean-scene/
 
 ```bash
 # 1. Клонируйте репозиторий
-git clone https://github.com/ваш_ник/bean-scene.git
+git clone https://github.com/Muhammadfahim17/React-project-with-Bean-Scene.git
 
 # 2. Перейдите в папку проекта
 cd my-app

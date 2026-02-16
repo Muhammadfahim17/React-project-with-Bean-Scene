@@ -28,7 +28,7 @@
 ## 🚀 Демо
 
 Посмотреть живую версию можно здесь:  
-👉 **[Bean Scene на Vercel](https://bean-scene.vercel.app)** <!-- ЗАМЕНИТЕ НА СВОЮ ССЫЛКУ ПОСЛЕ ДЕПЛОЯ -->
+👉 **[Bean Scene на Vercel](https://react-project-with-bean-scene.vercel.app/)** 
 
 ---
 

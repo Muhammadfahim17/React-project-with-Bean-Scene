@@ -1,0 +1,45 @@
+
+.clicker-script-regular {
+  font-family: "Clicker Script", cursive;
+  font-weight: 500;
+  font-style: normal;
+  font-size: 40px;
+}
+
+.header1 {
+  background-image: linear-gradient(#1E1E1E, #00000000), url('./assets/coffee_image.svg');
+  background-size: cover;
+  background-position: center;
+  height: 760px;
+}
+
+
+.clicker-script-regular2 {
+    font-family: "Clicker Script", cursive;
+    font-weight: 400;
+    font-style: initial;
+    font-size: 220px;
+}
+
+.box1 {
+    background-image:linear-gradient(#281a0a, #b7afaf00),  url('./assets/Rectangle 14.png');
+    background-size: cover;
+    background-position: center;
+    height: 600px;
+}
+
+
+.box2 {
+  background-image:linear-gradient(#281a0a, #b7afaf00),  url('./assets/Rectangle 14.png');
+  background-size: cover;
+  background-position: center;
+  height: 400px;
+}
+
+.foot {
+  background-image:  url('./assets/fotter_image.png');
+  background-size: cover;
+  background-position: center;
+  height: 550px;
+  background-color: #442808;
+}

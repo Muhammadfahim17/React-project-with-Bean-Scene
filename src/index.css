@@ -1,0 +1,8 @@
+@import "tailwindcss";
+
+.header1 {
+    background-image: './assets/coffee_image.svg';
+    background-size: cover;
+    background-position: center;
+    height: 50vh;
+}
